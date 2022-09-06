@@ -18,6 +18,10 @@
 
 https://user-images.githubusercontent.com/101615835/188543538-51436909-074a-44bb-98fc-7636ef9ed902.mp4
 
+<h2 align="center"> Responsivo para telas menores (mobile) </h2>
+
+https://user-images.githubusercontent.com/101615835/188545378-96799283-b225-4f1d-962a-6770cf6a3e52.mp4
+
 <h2 align="center"> Tecnologias utilizadas </h2>
 
 <ul>
